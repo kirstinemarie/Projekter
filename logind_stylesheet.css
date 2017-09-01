@@ -1,0 +1,65 @@
+/* Scss Document */
+body {
+  background-image: url(foto/citron_back.png);
+  background-size: cover;
+  background-color: #A2CADB;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 0.9em;
+  color: black; }
+
+h1 {
+  font-weight: 100;
+  font-size: 1.5em;
+  margin: 20px 40% 0 40%; }
+
+.log {
+  width: 25%;
+  background-color: rgba(255, 255, 255, 0.78);
+  margin: 150px 38% 0 38%; }
+
+.feldt {
+  width: 80%;
+  height: 35px;
+  margin: 5% 10%; }
+
+.knap {
+  width: 30%;
+  height: 20px;
+  background-color: #FFFFFF;
+  border-radius: 5%;
+  border: none;
+  margin-left: 10%;
+  margin-bottom: 10px; }
+
+.knappen {
+  width: 8%;
+  height: 20px;
+  background-color: #FFFFFF;
+  border-radius: 5%;
+  border: none;
+  float: right;
+  margin-top: -480px; }
+
+legend {
+  font-size: 1.1em;
+  margin-left: 10%;
+  margin-top: 15px; }
+
+p {
+  margin: 80px 30% 0 30%;
+  font-size: 1.1em;
+  padding: 3%;
+  background-color: rgba(255, 255, 255, 0.7); }
+
+h1 {
+  font-size: 1.1em; }
+
+a {
+  text-decoration: none;
+  color: black; }
+
+.ind {
+  margin-left: 40%; }
+
+h2 {
+  margin-left: 40%; }
